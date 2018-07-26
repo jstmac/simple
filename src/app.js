@@ -1,4 +1,5 @@
 var global = {};
+var missyB = {};
 var gconfig = null;
 var repo = null;
 var editor = null;
